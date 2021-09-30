@@ -3,8 +3,8 @@ const luckyNumber = document.querySelector("#luckyno");
 const checkBtn = document.querySelector("#checkbtn");
 const output = document.querySelector(".output");
 
+
 checkBtn.addEventListener("click", checkBirthDateIsLucky);
-console.log("Not storing any data");
 
 function checkBirthDateIsLucky() {
   const dob = birthDate.value;

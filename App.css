@@ -42,3 +42,10 @@ button{
   background-color: black;
 
 }
+
+.note{
+  margin-top: 29rem;
+  background-color: rgb(181, 220, 255);
+  padding: 1rem;
+  border-radius: 8px;
+}
